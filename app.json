@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Netflix",
+    "description": "",
+    "scheme": "netflixclone",
+    "slug": "netflix-ui-clone",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "version": "0.0.2",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "githubUrl": "https://github.com/vinniciusgomes/react-native-ui/",
+    "orientation": "portrait",
+    "primaryColor": "#000000",
+    "icon": "src/assets/icon.png",
+    "splash": {
+      "backgroundColor": "#000000",
+      "image": "src/assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "versionCode": 2
+    },
+    "ios": {
+      "buildNumber": "0.0.2",
+      "supportsTablet": true
+    }
+  }
+}
